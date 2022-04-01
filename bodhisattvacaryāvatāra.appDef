@@ -374,6 +374,11 @@
       <text-direction value="LTR"/>
       <numeral-system value="Default"/>
       <verse-number-style value="default"/>
+
+      <styles>
+        <style name="div.footer">
+        </style>
+      </styles>
     </styles-info>
 
     <writing-system code="bo">
@@ -387,6 +392,59 @@
       <abbrev>མཁན་པོ་ཀུན་དཔལ།</abbrev>
       <filename>Kunpal-Commentary.txt</filename>
       <source>D:\Scripture App Builder\Chojuk-chatsang\Final Chojuk\Kunpal-Commentary.txt</source>
+
+      <features type="book">
+        <feature name="show-chapter-numbers" value="inherit"/>
+        <feature name="lock-orientation" value="none"/>
+      </features>
+    </book>
+  </books>
+
+  <books id="C04">
+    <book-collection-name>ཐུབ་བསྟན་ཆོས་གྲགས་ཀྱི་སྤྱོད་འགྲེལ།</book-collection-name>
+    <book-collection-abbrev>ཐུབ་ཆོས་སྤྱོད་འགྲེལ།</book-collection-abbrev>
+    <book-collection-description></book-collection-description>
+
+    <features type="bc">
+      <feature name="show-scripture-refs" value="true"/>
+      <feature name="ref-chapter-verse-separator" value=":"/>
+      <feature name="ref-verse-range-separator" value="-"/>
+      <feature name="ref-verse-list-separator" value=","/>
+      <feature name="ref-chapter-range-separator" value="-"/>
+      <feature name="ref-chapter-list-separator" value=";"/>
+      <feature name="ref-extra-material" value=""/>
+      <feature name="numerals-type" value="default"/>
+      <feature name="bc-allow-single-pane" value="true"/>
+      <feature name="bc-allow-copy-text" value="true"/>
+      <feature name="bc-allow-long-press-select" value="true"/>
+      <feature name="bc-allow-share-text" value="true"/>
+      <feature name="bc-allow-text-on-image" value="true"/>
+      <feature name="bc-allow-text-on-image-edit-text" value="true"/>
+      <feature name="bc-allow-verse-of-the-day" value="true"/>
+      <feature name="bc-allow-share-audio" value="false"/>
+      <feature name="bc-allow-share-video" value="false"/>
+    </features>
+
+    <styles-info>
+      <text-font family="font1"/>
+      <text-size value="20"/>
+      <line-height value="120"/>
+      <text-direction value="LTR"/>
+      <numeral-system value="Default"/>
+      <verse-number-style value="default"/>
+    </styles-info>
+
+    <writing-system code="bo">
+      <display-names>
+        <form lang="default">Tibetan</form>
+      </display-names>
+    </writing-system>
+
+    <book id="B001">
+      <name>ཐུབ་བསྟན་ཆོས་གྲགས་ཀྱི་སྤྱོད་འགྲེལ།</name>
+      <abbrev>ཐུབ་ཆོས་སྤྱོད་འགྲེལ།</abbrev>
+      <filename>ཐུབ་ཆོས་སྤྱོད་འགྲེལ།.txt</filename>
+      <source>D:\Scripture App Builder\Chojuk-chatsang\Final Chojuk\ཐུབ་ཆོས་སྤྱོད་འགྲེལ།.txt</source>
 
       <features type="book">
         <feature name="show-chapter-numbers" value="inherit"/>
@@ -4801,7 +4859,7 @@
   </images>
 
   <images type="illustration">
-    <image width="479" height="565">circle-no background_result.png</image>
+    <image width="311" height="367">circle-no-background-311x367.png</image>
   </images>
 
   <images type="drawer">
