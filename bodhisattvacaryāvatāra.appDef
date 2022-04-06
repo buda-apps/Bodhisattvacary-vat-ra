@@ -223,7 +223,7 @@
   </colors>
 
   <books id="C01">
-    <book-collection-name>སྤྱོད་འཇུག་ཆེན་མོ།</book-collection-name>
+    <book-collection-name>སྤྱོད་འཇུག་རྩ་བ།</book-collection-name>
     <book-collection-abbrev>སྤྱོད་འཇུག་ཆེན་མོ།</book-collection-abbrev>
     <book-collection-description></book-collection-description>
 
@@ -330,8 +330,8 @@
     </writing-system>
 
     <book id="B001">
-      <name>ཐོག་མེད་བཟང་བོའི་སྤྱོད་འགྲེལ།</name>
-      <abbrev>ཐོག་མེད་བཟང་བོ།</abbrev>
+      <name>སྤྱོད་འཇུག་ཐོགས་འགྲེལ།</name>
+      <abbrev>ཐོགས་འགྲེལ།</abbrev>
       <filename>Thokme-Zangpo.txt</filename>
       <source>D:\Scripture App Builder\Chojuk-chatsang\Final Chojuk\Thokme-Zangpo.txt</source>
 
@@ -343,8 +343,8 @@
   </books>
 
   <books id="C03">
-    <book-collection-name>ཀུན་དཔལ་སྤྱོད་འགྲེལ།</book-collection-name>
-    <book-collection-abbrev>ཀུན་དཔལ།</book-collection-abbrev>
+    <book-collection-name>ཀུན་དཔལ་སྤྱོད་འཇུག</book-collection-name>
+    <book-collection-abbrev>ཀུན་དཔལ་སྤྱོད་འཇུག</book-collection-abbrev>
     <book-collection-description></book-collection-description>
 
     <features type="bc">
@@ -432,6 +432,11 @@
       <text-direction value="LTR"/>
       <numeral-system value="Default"/>
       <verse-number-style value="default"/>
+
+      <styles>
+        <style name="div.footer">
+        </style>
+      </styles>
     </styles-info>
 
     <writing-system code="bo">
@@ -441,8 +446,8 @@
     </writing-system>
 
     <book id="B001">
-      <name>ཐུབ་བསྟན་ཆོས་གྲགས་ཀྱི་སྤྱོད་འགྲེལ།</name>
-      <abbrev>ཐུབ་ཆོས་སྤྱོད་འགྲེལ།</abbrev>
+      <name>ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པའི་འགྲེལ་བ།</name>
+      <abbrev>ཐུབ་བསྟན་ཆོས་གྲགས་ཀྱི་སྤྱོད་འཇུག</abbrev>
       <filename>ཐུབ་ཆོས་སྤྱོད་འགྲེལ།.txt</filename>
       <source>D:\Scripture App Builder\Chojuk-chatsang\Final Chojuk\ཐུབ་ཆོས་སྤྱོད་འགྲེལ།.txt</source>
 
