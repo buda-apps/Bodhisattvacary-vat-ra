@@ -285,8 +285,8 @@
   </books>
 
   <books id="C02">
-    <book-collection-name>ཐོག་མེད་བཟང་བོའི་སྤྱོད་འགྲེལ།</book-collection-name>
-    <book-collection-abbrev>ཐོག་མེད་བཟང་བོ།</book-collection-abbrev>
+    <book-collection-name>ཐོགས་མེད་བཟང་བོའི་འགྲེལ་བ།</book-collection-name>
+    <book-collection-abbrev>ཐོགས་འགྲེལ།</book-collection-abbrev>
     <book-collection-description></book-collection-description>
 
     <features type="bc">
@@ -401,8 +401,8 @@
   </books>
 
   <books id="C04">
-    <book-collection-name>ཐུབ་བསྟན་ཆོས་གྲགས་ཀྱི་སྤྱོད་འགྲེལ།</book-collection-name>
-    <book-collection-abbrev>ཐུབ་ཆོས་སྤྱོད་འགྲེལ།</book-collection-abbrev>
+    <book-collection-name>ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པའི་སྤྱོད་འཇུག</book-collection-name>
+    <book-collection-abbrev>ཐུབ་བསྟན་ཆོས་གྲགས་ཀྱི་འགྲེལ་བ།</book-collection-abbrev>
     <book-collection-description></book-collection-description>
 
     <features type="bc">
@@ -4868,7 +4868,7 @@
   </images>
 
   <images type="drawer">
-    <image width="379" height="110">drawable-mdpi\nav_drawer.png</image>
+    <image width="397" height="137">drawable-mdpi\nav_drawer.png</image>
   </images>
 
   <adaptive-icon>
