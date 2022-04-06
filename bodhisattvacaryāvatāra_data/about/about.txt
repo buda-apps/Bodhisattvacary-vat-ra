@@ -1,7 +1,7 @@
 <b>%སྤྱོད་འཇུག་རྩ་འགྲེལ་ཤན་སྦྱར།%</b>
 
 <b>%སྤྱོད་འཇུག་རྩ་འགྲེལ་ཤན་སྦྱར།%</b>
-<img src="illustrations/circle-no background_result.png"/>
+<img src="illustrations/circle-no-background-311x367.png"/>
 
 
 - མཉེན་ཆས་ཐོན་རིམ་དང་བོ།
@@ -33,3 +33,6 @@
 གློག་འཕྲིན།: [email](---@gmail.com)
 
 %copyright-all:C03%
+
+
+%copyright-all:C04%
